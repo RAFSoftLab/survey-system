@@ -1,6 +1,11 @@
 # survey-system
 The survey-system is a comprehensive platform designed to streamline the survey creation and analysis process. It serves as a versatile tool for conducting surveys, collecting user responses, offering pre-defined survey templates, recommending questions based on user input, and generating insightful reports.
 
+## Table of Contents
+- [Setup Instructions](README.md)
+- [Functional requirements](functional-requirements.md)
+- [Design requirements](design-requirements.md)
+
 # Setup Instructions For Local Development Environment
 
 ## Backend side 
