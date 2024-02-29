@@ -12,7 +12,7 @@ User roles delineate the scope of actions and responsibilities each user can per
 - Can add target users for surveys and assign surveys to them
 - Has all privileges that employees have within the application
 
-## Employee:
+## Orgaization Employee:
 - Can preview their workspace, including folders, subfolders, and surveys
 - Can decide whether a folder is private or public within their workspace
 - Has access to the workspace of the organization they work for, but only public folders
