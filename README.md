@@ -5,6 +5,7 @@ The survey-system is a comprehensive platform designed to streamline the survey 
 - [Setup Instructions](README.md)
 - [Functional requirements](functional-requirements.md)
 - [Design requirements](design-requirements.md)
+- [Non-dunctional requirements] (non-functional-requirements.md)
 
 # Setup Instructions For Local Development Environment
 
