@@ -66,5 +66,8 @@ ng serve
 
 Access your Angular frontend at http://localhost:4200 in your web browser.
 
+![ss](https://github.com/RAFSoftLab/survey-system/assets/72028519/9e0e913b-c33a-40bd-9dda-76a773370ce0)
+
+
 
 
