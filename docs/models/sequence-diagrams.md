@@ -2,5 +2,6 @@
 
 ## User login, operating with surveys and target users while uploading them via files and provding config files 
 
-![Sequence](https://github.com/RAFSoftLab/survey-system/assets/72028519/b9a4f738-a1f4-4f93-8566-1f333d81de3d)
+![sequence](https://github.com/RAFSoftLab/survey-system/assets/72028519/33700072-f930-4030-8bc9-8380388314e8)
+
 
